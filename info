@@ -1,0 +1,17 @@
+This is the Social media app in which I have implemented the following funcationalities:
+1. Auth
+2. Profile Page
+3. Post sharing
+4. Commenting on post
+5. Adding friends
+6. Role base auth
+
+Technologies that I have used in it:
+1. React Js
+2. Redux toolkit
+3. MUI
+4. Node js
+5. Express
+6. MongoDB
+
+This is all for now
